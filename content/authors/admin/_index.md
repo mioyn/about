@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Midhun Jose
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Midhun
+last_name: Jose
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ⚽
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,29 +23,29 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: MSc Big data and AI
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: SRH
+    url: https://www.srh-university.de/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:mioyn.c@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  #- icon: brands/x
+  #  url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/mioyn
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/josemidhun/
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/citations?user=alexjohnson
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Large Language Models
@@ -106,7 +106,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python
         description: ''
         percent: 95
         icon: code-bracket
@@ -122,10 +122,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Weekend Football
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: person-soccer
       - name: Building Custom PCs
         description: ''
         percent: 90
