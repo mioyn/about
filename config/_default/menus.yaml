@@ -16,8 +16,8 @@ main:
   - name: News
     url: /#news
     weight: 13
-  - name: Git
-    url: https://mioyn.github.io/
+  - name: Blog
+    url: https://mioyn.github.io/blog/
     weight: 14
   - name: Experience
     url: experience/
