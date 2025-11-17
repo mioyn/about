@@ -48,10 +48,15 @@ profiles:
   #  url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - DevSecOps
+  - Continuous Integration
+  - Continuous Delivery/Deployment
+  - Harness
+  - Docker
+  - Kubernetes
+  - Helm
+  - Jenkins
+  - Azure
 
 education:
   - area: MSc Computer Science
