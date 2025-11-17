@@ -132,7 +132,7 @@ skills:
       - name: Playing Football
         description: ''
         percent: 80
-        icon: soccer-player
+        icon: custom/soccer-player
 
 languages:
   - name: English
