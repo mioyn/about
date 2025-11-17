@@ -124,7 +124,7 @@ skills:
       - name: DevOps
         description: ''
         percent: 85
-        icon: users-gear
+        icon: gear-2
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -132,7 +132,7 @@ skills:
       - name: Playing Football
         description: ''
         percent: 80
-        icon: person-running
+        icon: football-player
 
 languages:
   - name: English
