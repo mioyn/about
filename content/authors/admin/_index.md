@@ -112,15 +112,15 @@ skills:
       - name: Python
         description: ''
         percent: 95
-        icon: code-bracket
+        icon: 📓
       - name: Machine Learning
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: 📊
       - name: Cloud Computing (Azure)
         description: ''
         percent: 85
-        icon: cloud
+        icon: ☁️
       - name: DevOps
         description: ''
         percent: 85
@@ -132,7 +132,7 @@ skills:
       - name: Playing Football
         description: ''
         percent: 80
-        icon: custom/soccer-player
+        icon: 🏃‍♂️
 
 languages:
   - name: English
