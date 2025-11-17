@@ -109,19 +109,19 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: 📓 Python
         description: ''
         percent: 95
         icon: ''
-      - name: Machine Learning
+      - name: 📊 Machine Learning
         description: ''
         percent: 100
         icon: ''
-      - name: Cloud Computing (Azure)
+      - name: ☁️ Cloud Computing (Azure)
         description: ''
         percent: 85
         icon: ''
-      - name: DevOps
+      - name: 🚦 DevOps
         description: ''
         percent: 85
         icon: ''
@@ -129,7 +129,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Playing Football
+      - name: 🏃 Playing Football
         description: ''
         percent: 80
         icon: ''
