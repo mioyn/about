@@ -22,9 +22,6 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Resume
-    url: resume/
-    weight: 30
   # - name: Projects
   #   url: projects/
   #   weight: 30
